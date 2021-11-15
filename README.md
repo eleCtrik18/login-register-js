@@ -1,5 +1,5 @@
 
-Login/Register API
+## Login/Register API
 
 A simple API to Login/Register with the help of Passport JS.
 
